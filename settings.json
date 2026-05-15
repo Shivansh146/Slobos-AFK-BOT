@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Shivansh_15052",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "shivansh_15052",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "shivansh-JhbS.aternos.me",
+    "port": 54917,
     "version": "1.21.1"
   },
   "position": {
